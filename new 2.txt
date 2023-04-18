@@ -1,0 +1,46 @@
+Blob storage  				ADLS Gen2
+Binary large orbject			Azure Data Lake Storage
+General purpose 					general purpose
+widely used to store back-ups
+Supported:- all data				Supported:- all data text, cdv, json, binary, logs,
+images, videos
+text, cdv, json, binary, logs,
+images, videos							create folder and files (file explorer), will placed inside the container
+
+logical folder and files
+
+will placed inside the container			we can give folder level and file level permission access to user
+Folder and files level access is not present
+
+cheap																expensive
+
+fully Managed storage
+
+scale up scale up
+
+
+
+1TB of HDD
+till 1 TB
+
+blob (--)
+scale up
+DC
+500gb =500 gb -- scale up
+660GB
+Last 1 month --30GB 300GB---scale down
+
+All the process are automated
+
+size is higher
+cost is higher
+
+01-01-2010 (30 MB) keep on paying 2usd per month
+01-01-2023 
+
+DefaultEndpointsProtocol=https;AccountName=stblobdemo;AccountKey=n0eec8NsUjpxIIx091S2kSQufCqgsgiD7H/HFNOAcp2MoS8Ux2bEtUdh93/Gm8E5HBeTpXdvaJi1+ASt9HEZig==;EndpointSuffix=core.windows.net
+
+
+
+
+
